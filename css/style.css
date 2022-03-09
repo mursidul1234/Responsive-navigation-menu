@@ -1,0 +1,40 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+/*header section*/
+.logo-text{
+	color: #000;
+    font-size: 33px;
+    margin-left: 88px;
+
+}
+.navbar-nav .nav-link{
+   color: #000;
+   text-transform: uppercase;
+}
+a.nav-link.js-scroll-triger:hover{
+	background:#deb887;
+	border-radius:6px;
+	transition: 0.1s;
+	
+}
+/*Responsive breckpoint*/
+/*small devices (landscapes phones 576px, and up)*/
+@media (min-width: 576.1px) and (max-width: 768px) {
+	a.nav-link.js-scroll-triger{
+	background:#deb887;
+	border-radius:6px;
+	transition: 0.1s;
+	
+}
+	
+
+
+
+
+
+	
+
+    
+
